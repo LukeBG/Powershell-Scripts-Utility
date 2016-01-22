@@ -8,4 +8,4 @@ Useful modules
 /modules/Get-USAJob.psm1
 
 Website
-(Powershell-Scripts-Utility)[http://lukebg.github.io/Powershell-Scripts-Utility/]
+[Powershell-Scripts-Utility](http://lukebg.github.io/Powershell-Scripts-Utility/)
